@@ -1,0 +1,3 @@
+#ifndef Language_ParseTree_Node_hpp
+#define Language_ParseTree_Node_hpp
+#endif
